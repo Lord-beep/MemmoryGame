@@ -1,0 +1,17 @@
+D:\C#Games\VisualStudio2022\matchingGame\matchingGame\bin\Debug\net6.0-windows\matchingGame.exe
+D:\C#Games\VisualStudio2022\matchingGame\matchingGame\bin\Debug\net6.0-windows\matchingGame.deps.json
+D:\C#Games\VisualStudio2022\matchingGame\matchingGame\bin\Debug\net6.0-windows\matchingGame.runtimeconfig.json
+D:\C#Games\VisualStudio2022\matchingGame\matchingGame\bin\Debug\net6.0-windows\matchingGame.dll
+D:\C#Games\VisualStudio2022\matchingGame\matchingGame\bin\Debug\net6.0-windows\matchingGame.pdb
+D:\C#Games\VisualStudio2022\matchingGame\matchingGame\obj\Debug\net6.0-windows\matchingGame.csproj.AssemblyReference.cache
+D:\C#Games\VisualStudio2022\matchingGame\matchingGame\obj\Debug\net6.0-windows\matchingGame.Form1.resources
+D:\C#Games\VisualStudio2022\matchingGame\matchingGame\obj\Debug\net6.0-windows\matchingGame.csproj.GenerateResource.cache
+D:\C#Games\VisualStudio2022\matchingGame\matchingGame\obj\Debug\net6.0-windows\matchingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Games\VisualStudio2022\matchingGame\matchingGame\obj\Debug\net6.0-windows\matchingGame.AssemblyInfoInputs.cache
+D:\C#Games\VisualStudio2022\matchingGame\matchingGame\obj\Debug\net6.0-windows\matchingGame.AssemblyInfo.cs
+D:\C#Games\VisualStudio2022\matchingGame\matchingGame\obj\Debug\net6.0-windows\matchingGame.csproj.CoreCompileInputs.cache
+D:\C#Games\VisualStudio2022\matchingGame\matchingGame\obj\Debug\net6.0-windows\matchingGame.dll
+D:\C#Games\VisualStudio2022\matchingGame\matchingGame\obj\Debug\net6.0-windows\refint\matchingGame.dll
+D:\C#Games\VisualStudio2022\matchingGame\matchingGame\obj\Debug\net6.0-windows\matchingGame.pdb
+D:\C#Games\VisualStudio2022\matchingGame\matchingGame\obj\Debug\net6.0-windows\matchingGame.genruntimeconfig.cache
+D:\C#Games\VisualStudio2022\matchingGame\matchingGame\obj\Debug\net6.0-windows\ref\matchingGame.dll
